@@ -1,0 +1,22 @@
+@import "reset.css";
+
+#jsBox {
+  font-size: 100px;
+  color: black;
+  width: 10em;
+  height: 10em;
+  background-color: #fcda97;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: -1px 11px 38px -1px rgba(199, 190, 131, 1);
+}
+
+.container {
+  width: 100vw;
+  height: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #ffe987;
+}
