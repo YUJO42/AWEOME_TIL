@@ -1,3 +1,3 @@
-const mainBox = document.getElementById("jsBox");
+const mainBox = document.getElementById("mainBox");
 
-mainBox.innerText = "asdasd";
+mainBox.innerText = "Hello!";

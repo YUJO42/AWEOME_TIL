@@ -1,6 +1,6 @@
-@import "reset.css";
+@import 'reset.css';
 
-#jsBox {
+#mainBox {
   font-size: 100px;
   color: black;
   width: 10em;
@@ -16,6 +16,7 @@
   width: 100vw;
   height: 100vw;
   display: flex;
+  /* margin: auto auto; */
   justify-content: center;
   align-items: center;
   background: #ffe987;
